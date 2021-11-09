@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: #121212;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form {
+    border: 1px solid #555;
+    border-radius: 3px;
+    padding: 12px 14px 16px 14px;
+    display: inline-block;
+    text-align: left;
+    color: #fff;
+    background: #222;
+    margin: 20px;
+}
+input, select {
+    background: #1a1a1a;
+    border: 1px solid rgb(255, 47, 47);
+    color: #fff;
+    border-radius: 2px;
+}
+input:not([type="radio"]):not([type="checkbox"]):not([type="submit"]), select {
+    margin: 3px 0 15px 0;
+}
+.fiften {
+    margin-bottom: 15px;
+}
+h1, h4 {
+    color: #fff;
+}
