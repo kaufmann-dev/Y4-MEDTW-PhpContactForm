@@ -16,7 +16,7 @@ form {
 }
 input, select {
     background: #1a1a1a;
-    border: 1px solid rgb(255, 47, 47);
+    border: 1px solid #f44;
     color: #fff;
     border-radius: 2px;
 }

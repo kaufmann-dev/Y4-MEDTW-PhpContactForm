@@ -18,7 +18,7 @@
             <form action="">
                 <input type="hidden" name="form_rdr">
 
-                <label for="gender">Geschlecht</label><br>
+                <label for="gender">Geschlecht*</label><br>
                 <input required type="radio" id="css" name="gender" value="female">
                 <label for="female">Weiblich</label><br>
                 <input required type="radio" id="male" name="gender" value="male">
@@ -31,15 +31,15 @@
                 <input type="text" name="title" id="title">
                 <br>
 
-                <label for="firstname">Vorname</label><br>
+                <label for="firstname">Vorname*</label><br>
                 <input required type="text" name="firstname" id="firstname">
                 <br>
 
-                <label for="lastname">Nachnahme</label><br>
+                <label for="lastname">Nachnahme*</label><br>
                 <input required type="text" name="lastname" id="lastname">
                 <br>
 
-                <label for="email">E-Mail</label><br>
+                <label for="email">E-Mail*</label><br>
                 <input required type="text" name="email" id="email">
                 <br>
 
